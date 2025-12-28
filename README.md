@@ -1,1 +1,1 @@
-# Intelligent-car---learning-note
+# SMU intelligent competition open_source
